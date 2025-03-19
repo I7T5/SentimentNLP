@@ -1,0 +1,10 @@
+data.csv
+*.docx
+
+.venv
+
+.vscode
+
+.ropeproject
+
+.DS_Store
